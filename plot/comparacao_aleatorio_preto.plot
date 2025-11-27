@@ -10,8 +10,7 @@ set key outside textcolor rgb "black"
 set grid lw 1 lc rgb "gray"
 
 set xrange [10:100000]
-set yrange [0.000001:10]
-
+set yrange [0.000001:1000]
 set logscale xy
 set format y "%.7f" 
 
