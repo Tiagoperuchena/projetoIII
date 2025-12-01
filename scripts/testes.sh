@@ -9,7 +9,7 @@ NUM_EXECUCOES=10
 
 ALGORITMOS=("merge" "selection")
 LINGUAGENS=("c" "python")
-RODAR_SCRIPT="./rodar_aleatorio.sh"
+RODAR_SCRIPT="./script.sh"
 
 
 echo "Tamanhos de N a testar: ${TAMANHOS_N[*]}"
